@@ -1,0 +1,623 @@
+{"sysstat": {
+	"sysdata-version": 2.13,
+	"hosts": [
+		{
+			"nodename": "SAL-DC-WEBSERVER",
+			"sysname": "Linux",
+			"release": "3.5.0-23-generic",
+			"machine": "x86_64",
+			"number-of-cpus": 2,
+			"file-date": "2014-06-02",
+			"statistics": [
+				{
+					"timestamp": {"date": "2014-06-02", "time": "21-30-10", "utc": 1, "interval": 1},
+					"cpu-load": [
+						{"cpu": "all", "user": 0.00, "nice": 0.00, "system": 0.00, "iowait": 0.00, "steal": 0.00, "idle": 100.00}
+					]
+				},
+				{
+					"timestamp": {"date": "2014-06-02", "time": "21-30-11", "utc": 1, "interval": 1},
+					"cpu-load": [
+						{"cpu": "all", "user": 0.00, "nice": 0.00, "system": 0.50, "iowait": 0.00, "steal": 0.00, "idle": 99.50}
+					]
+				},
+				{
+					"timestamp": {"date": "2014-06-02", "time": "21-30-12", "utc": 1, "interval": 1},
+					"cpu-load": [
+						{"cpu": "all", "user": 0.00, "nice": 0.00, "system": 0.00, "iowait": 0.00, "steal": 0.00, "idle": 100.00}
+					]
+				},
+				{
+					"timestamp": {"date": "2014-06-02", "time": "21-30-13", "utc": 1, "interval": 1},
+					"cpu-load": [
+						{"cpu": "all", "user": 0.00, "nice": 0.00, "system": 0.50, "iowait": 0.00, "steal": 0.00, "idle": 99.50}
+					]
+				},
+				{
+					"timestamp": {"date": "2014-06-02", "time": "21-30-14", "utc": 1, "interval": 1},
+					"cpu-load": [
+						{"cpu": "all", "user": 0.00, "nice": 0.00, "system": 0.50, "iowait": 0.00, "steal": 0.00, "idle": 99.50}
+					]
+				},
+				{
+					"timestamp": {"date": "2014-06-02", "time": "21-30-15", "utc": 1, "interval": 1},
+					"cpu-load": [
+						{"cpu": "all", "user": 0.00, "nice": 0.00, "system": 0.00, "iowait": 0.00, "steal": 0.00, "idle": 100.00}
+					]
+				},
+				{
+					"timestamp": {"date": "2014-06-02", "time": "21-30-16", "utc": 1, "interval": 1},
+					"cpu-load": [
+						{"cpu": "all", "user": 0.00, "nice": 0.00, "system": 0.50, "iowait": 0.00, "steal": 0.00, "idle": 99.50}
+					]
+				},
+				{
+					"timestamp": {"date": "2014-06-02", "time": "21-30-17", "utc": 1, "interval": 1},
+					"cpu-load": [
+						{"cpu": "all", "user": 0.50, "nice": 0.00, "system": 0.00, "iowait": 0.00, "steal": 0.00, "idle": 99.50}
+					]
+				},
+				{
+					"timestamp": {"date": "2014-06-02", "time": "21-30-18", "utc": 1, "interval": 1},
+					"cpu-load": [
+						{"cpu": "all", "user": 0.00, "nice": 0.00, "system": 0.00, "iowait": 0.00, "steal": 0.00, "idle": 100.00}
+					]
+				},
+				{
+					"timestamp": {"date": "2014-06-02", "time": "21-30-19", "utc": 1, "interval": 1},
+					"cpu-load": [
+						{"cpu": "all", "user": 0.00, "nice": 0.00, "system": 0.50, "iowait": 0.00, "steal": 0.00, "idle": 99.50}
+					]
+				},
+				{
+					"timestamp": {"date": "2014-06-02", "time": "21-30-20", "utc": 1, "interval": 1},
+					"cpu-load": [
+						{"cpu": "all", "user": 0.00, "nice": 0.00, "system": 0.00, "iowait": 0.00, "steal": 0.00, "idle": 100.00}
+					]
+				},
+				{
+					"timestamp": {"date": "2014-06-02", "time": "21-30-21", "utc": 1, "interval": 1},
+					"cpu-load": [
+						{"cpu": "all", "user": 0.00, "nice": 0.00, "system": 0.00, "iowait": 0.00, "steal": 0.00, "idle": 100.00}
+					]
+				},
+				{
+					"timestamp": {"date": "2014-06-02", "time": "21-30-22", "utc": 1, "interval": 1},
+					"cpu-load": [
+						{"cpu": "all", "user": 0.00, "nice": 0.00, "system": 0.50, "iowait": 0.00, "steal": 0.00, "idle": 99.50}
+					]
+				},
+				{
+					"timestamp": {"date": "2014-06-02", "time": "21-30-23", "utc": 1, "interval": 1},
+					"cpu-load": [
+						{"cpu": "all", "user": 0.00, "nice": 0.00, "system": 0.00, "iowait": 0.00, "steal": 0.00, "idle": 100.00}
+					]
+				},
+				{
+					"timestamp": {"date": "2014-06-02", "time": "21-30-24", "utc": 1, "interval": 1},
+					"cpu-load": [
+						{"cpu": "all", "user": 0.50, "nice": 0.00, "system": 0.00, "iowait": 0.00, "steal": 0.00, "idle": 99.50}
+					]
+				},
+				{
+					"timestamp": {"date": "2014-06-02", "time": "21-30-25", "utc": 1, "interval": 1},
+					"cpu-load": [
+						{"cpu": "all", "user": 0.00, "nice": 0.00, "system": 0.00, "iowait": 0.00, "steal": 0.00, "idle": 100.00}
+					]
+				},
+				{
+					"timestamp": {"date": "2014-06-02", "time": "21-30-26", "utc": 1, "interval": 1},
+					"cpu-load": [
+						{"cpu": "all", "user": 0.00, "nice": 0.00, "system": 0.00, "iowait": 0.00, "steal": 0.00, "idle": 100.00}
+					]
+				},
+				{
+					"timestamp": {"date": "2014-06-02", "time": "21-30-27", "utc": 1, "interval": 1},
+					"cpu-load": [
+						{"cpu": "all", "user": 0.00, "nice": 0.00, "system": 0.50, "iowait": 0.00, "steal": 0.00, "idle": 99.50}
+					]
+				},
+				{
+					"timestamp": {"date": "2014-06-02", "time": "21-30-28", "utc": 1, "interval": 1},
+					"cpu-load": [
+						{"cpu": "all", "user": 0.00, "nice": 0.00, "system": 0.00, "iowait": 0.00, "steal": 0.00, "idle": 100.00}
+					]
+				},
+				{
+					"timestamp": {"date": "2014-06-02", "time": "21-30-29", "utc": 1, "interval": 1},
+					"cpu-load": [
+						{"cpu": "all", "user": 0.00, "nice": 0.00, "system": 0.50, "iowait": 0.00, "steal": 0.00, "idle": 99.50}
+					]
+				},
+				{
+					"timestamp": {"date": "2014-06-02", "time": "21-30-30", "utc": 1, "interval": 1},
+					"cpu-load": [
+						{"cpu": "all", "user": 0.00, "nice": 0.00, "system": 0.00, "iowait": 0.00, "steal": 0.00, "idle": 100.00}
+					]
+				},
+				{
+					"timestamp": {"date": "2014-06-02", "time": "21-30-31", "utc": 1, "interval": 1},
+					"cpu-load": [
+						{"cpu": "all", "user": 0.00, "nice": 0.00, "system": 0.00, "iowait": 0.00, "steal": 0.00, "idle": 100.00}
+					]
+				},
+				{
+					"timestamp": {"date": "2014-06-03", "time": "23-01-12", "utc": 1, "interval": 91841},
+					"cpu-load": [
+						{"cpu": "all", "user": 0.03, "nice": 0.00, "system": 0.01, "iowait": 0.00, "steal": 0.00, "idle": 99.95}
+					]
+				},
+				{
+					"timestamp": {"date": "2014-06-03", "time": "23-01-13", "utc": 1, "interval": 1},
+					"cpu-load": [
+						{"cpu": "all", "user": 0.50, "nice": 0.00, "system": 0.00, "iowait": 0.00, "steal": 0.00, "idle": 99.50}
+					]
+				},
+				{
+					"timestamp": {"date": "2014-06-03", "time": "23-01-14", "utc": 1, "interval": 1},
+					"cpu-load": [
+						{"cpu": "all", "user": 0.00, "nice": 0.00, "system": 0.00, "iowait": 0.00, "steal": 0.00, "idle": 100.00}
+					]
+				},
+				{
+					"timestamp": {"date": "2014-06-03", "time": "23-01-15", "utc": 1, "interval": 1},
+					"cpu-load": [
+						{"cpu": "all", "user": 0.00, "nice": 0.00, "system": 0.00, "iowait": 0.00, "steal": 0.00, "idle": 100.00}
+					]
+				},
+				{
+					"timestamp": {"date": "2014-06-03", "time": "23-01-16", "utc": 1, "interval": 1},
+					"cpu-load": [
+						{"cpu": "all", "user": 0.00, "nice": 0.00, "system": 0.50, "iowait": 0.00, "steal": 0.00, "idle": 99.50}
+					]
+				},
+				{
+					"timestamp": {"date": "2014-06-03", "time": "23-01-17", "utc": 1, "interval": 1},
+					"cpu-load": [
+						{"cpu": "all", "user": 0.00, "nice": 0.00, "system": 0.50, "iowait": 0.00, "steal": 0.00, "idle": 99.50}
+					]
+				},
+				{
+					"timestamp": {"date": "2014-06-03", "time": "23-01-18", "utc": 1, "interval": 1},
+					"cpu-load": [
+						{"cpu": "all", "user": 0.50, "nice": 0.00, "system": 0.00, "iowait": 0.50, "steal": 0.00, "idle": 99.01}
+					]
+				},
+				{
+					"timestamp": {"date": "2014-06-03", "time": "23-01-19", "utc": 1, "interval": 1},
+					"cpu-load": [
+						{"cpu": "all", "user": 0.00, "nice": 0.00, "system": 0.00, "iowait": 0.00, "steal": 0.00, "idle": 100.00}
+					]
+				},
+				{
+					"timestamp": {"date": "2014-06-03", "time": "23-01-20", "utc": 1, "interval": 1},
+					"cpu-load": [
+						{"cpu": "all", "user": 0.00, "nice": 0.00, "system": 0.50, "iowait": 0.00, "steal": 0.00, "idle": 99.50}
+					]
+				},
+				{
+					"timestamp": {"date": "2014-06-03", "time": "23-01-21", "utc": 1, "interval": 1},
+					"cpu-load": [
+						{"cpu": "all", "user": 0.00, "nice": 0.00, "system": 0.00, "iowait": 0.00, "steal": 0.00, "idle": 100.00}
+					]
+				},
+				{
+					"timestamp": {"date": "2014-06-03", "time": "23-01-22", "utc": 1, "interval": 1},
+					"cpu-load": [
+						{"cpu": "all", "user": 0.00, "nice": 0.00, "system": 0.00, "iowait": 0.00, "steal": 0.00, "idle": 100.00}
+					]
+				},
+				{
+					"timestamp": {"date": "2014-06-03", "time": "23-01-23", "utc": 1, "interval": 1},
+					"cpu-load": [
+						{"cpu": "all", "user": 0.00, "nice": 0.00, "system": 0.50, "iowait": 0.00, "steal": 0.00, "idle": 99.50}
+					]
+				},
+				{
+					"timestamp": {"date": "2014-06-03", "time": "23-01-24", "utc": 1, "interval": 1},
+					"cpu-load": [
+						{"cpu": "all", "user": 0.50, "nice": 0.00, "system": 0.00, "iowait": 0.00, "steal": 0.00, "idle": 99.50}
+					]
+				},
+				{
+					"timestamp": {"date": "2014-06-03", "time": "23-01-25", "utc": 1, "interval": 1},
+					"cpu-load": [
+						{"cpu": "all", "user": 0.00, "nice": 0.00, "system": 0.00, "iowait": 0.00, "steal": 0.00, "idle": 100.00}
+					]
+				},
+				{
+					"timestamp": {"date": "2014-06-03", "time": "23-01-26", "utc": 1, "interval": 1},
+					"cpu-load": [
+						{"cpu": "all", "user": 0.00, "nice": 0.00, "system": 0.50, "iowait": 0.00, "steal": 0.00, "idle": 99.50}
+					]
+				},
+				{
+					"timestamp": {"date": "2014-06-03", "time": "23-01-27", "utc": 1, "interval": 1},
+					"cpu-load": [
+						{"cpu": "all", "user": 0.00, "nice": 0.00, "system": 0.00, "iowait": 0.00, "steal": 0.00, "idle": 100.00}
+					]
+				},
+				{
+					"timestamp": {"date": "2014-06-03", "time": "23-01-28", "utc": 1, "interval": 1},
+					"cpu-load": [
+						{"cpu": "all", "user": 0.50, "nice": 0.00, "system": 0.00, "iowait": 0.00, "steal": 0.00, "idle": 99.50}
+					]
+				},
+				{
+					"timestamp": {"date": "2014-06-03", "time": "23-01-29", "utc": 1, "interval": 1},
+					"cpu-load": [
+						{"cpu": "all", "user": 0.00, "nice": 0.00, "system": 0.00, "iowait": 0.00, "steal": 0.00, "idle": 100.00}
+					]
+				},
+				{
+					"timestamp": {"date": "2014-06-03", "time": "23-01-30", "utc": 1, "interval": 1},
+					"cpu-load": [
+						{"cpu": "all", "user": 0.00, "nice": 0.00, "system": 0.00, "iowait": 0.00, "steal": 0.00, "idle": 100.00}
+					]
+				},
+				{
+					"timestamp": {"date": "2014-06-03", "time": "23-01-31", "utc": 1, "interval": 1},
+					"cpu-load": [
+						{"cpu": "all", "user": 0.00, "nice": 0.00, "system": 0.50, "iowait": 0.00, "steal": 0.00, "idle": 99.50}
+					]
+				},
+				{
+					"timestamp": {"date": "2014-06-03", "time": "23-01-32", "utc": 1, "interval": 1},
+					"cpu-load": [
+						{"cpu": "all", "user": 0.00, "nice": 0.00, "system": 0.00, "iowait": 0.00, "steal": 0.00, "idle": 100.00}
+					]
+				},
+				{
+					"timestamp": {"date": "2014-06-03", "time": "23-01-33", "utc": 1, "interval": 1},
+					"cpu-load": [
+						{"cpu": "all", "user": 0.00, "nice": 0.00, "system": 0.00, "iowait": 0.00, "steal": 0.00, "idle": 100.00}
+					]
+				},
+				{
+					"timestamp": {"date": "2014-06-03", "time": "23-01-34", "utc": 1, "interval": 1},
+					"cpu-load": [
+						{"cpu": "all", "user": 0.50, "nice": 0.00, "system": 0.00, "iowait": 0.00, "steal": 0.00, "idle": 99.50}
+					]
+				},
+				{
+					"timestamp": {"date": "2014-06-03", "time": "23-01-35", "utc": 1, "interval": 1},
+					"cpu-load": [
+						{"cpu": "all", "user": 0.00, "nice": 0.00, "system": 0.50, "iowait": 0.00, "steal": 0.00, "idle": 99.50}
+					]
+				},
+				{
+					"timestamp": {"date": "2014-06-03", "time": "23-01-36", "utc": 1, "interval": 1},
+					"cpu-load": [
+						{"cpu": "all", "user": 0.00, "nice": 0.00, "system": 0.00, "iowait": 0.00, "steal": 0.00, "idle": 100.00}
+					]
+				},
+				{
+					"timestamp": {"date": "2014-06-03", "time": "23-01-37", "utc": 1, "interval": 1},
+					"cpu-load": [
+						{"cpu": "all", "user": 0.00, "nice": 0.00, "system": 0.00, "iowait": 0.00, "steal": 0.00, "idle": 100.00}
+					]
+				},
+				{
+					"timestamp": {"date": "2014-06-03", "time": "23-01-38", "utc": 1, "interval": 1},
+					"cpu-load": [
+						{"cpu": "all", "user": 0.00, "nice": 0.00, "system": 0.00, "iowait": 0.00, "steal": 0.00, "idle": 100.00}
+					]
+				},
+				{
+					"timestamp": {"date": "2014-06-03", "time": "23-01-39", "utc": 1, "interval": 1},
+					"cpu-load": [
+						{"cpu": "all", "user": 0.50, "nice": 0.00, "system": 0.00, "iowait": 0.00, "steal": 0.00, "idle": 99.50}
+					]
+				},
+				{
+					"timestamp": {"date": "2014-06-03", "time": "23-01-40", "utc": 1, "interval": 1},
+					"cpu-load": [
+						{"cpu": "all", "user": 0.00, "nice": 0.00, "system": 0.50, "iowait": 0.00, "steal": 0.00, "idle": 99.50}
+					]
+				},
+				{
+					"timestamp": {"date": "2014-06-03", "time": "23-01-41", "utc": 1, "interval": 1},
+					"cpu-load": [
+						{"cpu": "all", "user": 0.00, "nice": 0.00, "system": 0.00, "iowait": 0.00, "steal": 0.00, "idle": 100.00}
+					]
+				},
+				{
+					"timestamp": {"date": "2014-06-03", "time": "23-01-42", "utc": 1, "interval": 1},
+					"cpu-load": [
+						{"cpu": "all", "user": 0.50, "nice": 0.00, "system": 0.00, "iowait": 0.00, "steal": 0.00, "idle": 99.50}
+					]
+				},
+				{
+					"timestamp": {"date": "2014-06-03", "time": "23-01-43", "utc": 1, "interval": 1},
+					"cpu-load": [
+						{"cpu": "all", "user": 0.00, "nice": 0.00, "system": 0.00, "iowait": 0.00, "steal": 0.00, "idle": 100.00}
+					]
+				},
+				{
+					"timestamp": {"date": "2014-06-03", "time": "23-01-44", "utc": 1, "interval": 1},
+					"cpu-load": [
+						{"cpu": "all", "user": 0.00, "nice": 0.00, "system": 0.00, "iowait": 0.00, "steal": 0.00, "idle": 100.00}
+					]
+				},
+				{
+					"timestamp": {"date": "2014-06-03", "time": "23-01-45", "utc": 1, "interval": 1},
+					"cpu-load": [
+						{"cpu": "all", "user": 0.00, "nice": 0.00, "system": 0.50, "iowait": 0.00, "steal": 0.00, "idle": 99.50}
+					]
+				},
+				{
+					"timestamp": {"date": "2014-06-03", "time": "23-01-46", "utc": 1, "interval": 1},
+					"cpu-load": [
+						{"cpu": "all", "user": 0.00, "nice": 0.00, "system": 0.00, "iowait": 0.00, "steal": 0.00, "idle": 100.00}
+					]
+				},
+				{
+					"timestamp": {"date": "2014-06-03", "time": "23-01-47", "utc": 1, "interval": 1},
+					"cpu-load": [
+						{"cpu": "all", "user": 0.00, "nice": 0.00, "system": 0.50, "iowait": 0.00, "steal": 0.50, "idle": 99.00}
+					]
+				},
+				{
+					"timestamp": {"date": "2014-06-03", "time": "23-01-48", "utc": 1, "interval": 1},
+					"cpu-load": [
+						{"cpu": "all", "user": 0.50, "nice": 0.00, "system": 0.00, "iowait": 0.00, "steal": 0.00, "idle": 99.50}
+					]
+				},
+				{
+					"timestamp": {"date": "2014-06-03", "time": "23-01-49", "utc": 1, "interval": 1},
+					"cpu-load": [
+						{"cpu": "all", "user": 0.00, "nice": 0.00, "system": 0.50, "iowait": 0.00, "steal": 0.00, "idle": 99.50}
+					]
+				},
+				{
+					"timestamp": {"date": "2014-06-03", "time": "23-01-50", "utc": 1, "interval": 1},
+					"cpu-load": [
+						{"cpu": "all", "user": 0.50, "nice": 0.00, "system": 0.50, "iowait": 0.00, "steal": 0.00, "idle": 99.00}
+					]
+				},
+				{
+					"timestamp": {"date": "2014-06-03", "time": "23-01-51", "utc": 1, "interval": 1},
+					"cpu-load": [
+						{"cpu": "all", "user": 0.00, "nice": 0.00, "system": 0.00, "iowait": 0.00, "steal": 0.00, "idle": 100.00}
+					]
+				},
+				{
+					"timestamp": {"date": "2014-06-03", "time": "23-01-52", "utc": 1, "interval": 1},
+					"cpu-load": [
+						{"cpu": "all", "user": 0.00, "nice": 0.00, "system": 0.00, "iowait": 0.00, "steal": 0.00, "idle": 100.00}
+					]
+				},
+				{
+					"timestamp": {"date": "2014-06-03", "time": "23-01-53", "utc": 1, "interval": 1},
+					"cpu-load": [
+						{"cpu": "all", "user": 0.00, "nice": 0.00, "system": 0.50, "iowait": 0.00, "steal": 0.00, "idle": 99.50}
+					]
+				},
+				{
+					"timestamp": {"date": "2014-06-03", "time": "23-01-55", "utc": 1, "interval": 1},
+					"cpu-load": [
+						{"cpu": "all", "user": 0.00, "nice": 0.00, "system": 0.00, "iowait": 0.50, "steal": 0.00, "idle": 99.50}
+					]
+				},
+				{
+					"timestamp": {"date": "2014-06-03", "time": "23-01-56", "utc": 1, "interval": 1},
+					"cpu-load": [
+						{"cpu": "all", "user": 0.00, "nice": 0.00, "system": 0.00, "iowait": 0.00, "steal": 0.00, "idle": 100.00}
+					]
+				},
+				{
+					"timestamp": {"date": "2014-06-03", "time": "23-01-57", "utc": 1, "interval": 1},
+					"cpu-load": [
+						{"cpu": "all", "user": 0.00, "nice": 0.00, "system": 0.50, "iowait": 0.00, "steal": 0.00, "idle": 99.50}
+					]
+				},
+				{
+					"timestamp": {"date": "2014-06-03", "time": "23-01-57", "utc": 1, "interval": 1},
+					"cpu-load": [
+						{"cpu": "all", "user": 0.00, "nice": 0.00, "system": 0.00, "iowait": 0.00, "steal": 0.00, "idle": 100.00}
+					]
+				},
+				{
+					"timestamp": {"date": "2014-06-03", "time": "23-01-59", "utc": 1, "interval": 1},
+					"cpu-load": [
+						{"cpu": "all", "user": 0.00, "nice": 0.00, "system": 0.00, "iowait": 0.00, "steal": 0.00, "idle": 100.00}
+					]
+				},
+				{
+					"timestamp": {"date": "2014-06-03", "time": "23-02-00", "utc": 1, "interval": 1},
+					"cpu-load": [
+						{"cpu": "all", "user": 0.00, "nice": 0.00, "system": 0.50, "iowait": 0.00, "steal": 0.00, "idle": 99.50}
+					]
+				},
+				{
+					"timestamp": {"date": "2014-06-03", "time": "23-02-01", "utc": 1, "interval": 1},
+					"cpu-load": [
+						{"cpu": "all", "user": 0.00, "nice": 0.00, "system": 0.00, "iowait": 0.00, "steal": 0.00, "idle": 100.00}
+					]
+				},
+				{
+					"timestamp": {"date": "2014-06-03", "time": "23-02-02", "utc": 1, "interval": 1},
+					"cpu-load": [
+						{"cpu": "all", "user": 0.50, "nice": 0.00, "system": 0.00, "iowait": 0.00, "steal": 0.00, "idle": 99.50}
+					]
+				},
+				{
+					"timestamp": {"date": "2014-06-03", "time": "23-02-02", "utc": 1, "interval": 1},
+					"cpu-load": [
+						{"cpu": "all", "user": 0.00, "nice": 0.00, "system": 0.00, "iowait": 0.00, "steal": 0.00, "idle": 100.00}
+					]
+				},
+				{
+					"timestamp": {"date": "2014-06-03", "time": "23-02-04", "utc": 1, "interval": 1},
+					"cpu-load": [
+						{"cpu": "all", "user": 0.50, "nice": 0.00, "system": 0.00, "iowait": 0.00, "steal": 0.00, "idle": 99.50}
+					]
+				},
+				{
+					"timestamp": {"date": "2014-06-03", "time": "23-02-05", "utc": 1, "interval": 1},
+					"cpu-load": [
+						{"cpu": "all", "user": 0.00, "nice": 0.00, "system": 0.50, "iowait": 0.00, "steal": 0.00, "idle": 99.50}
+					]
+				},
+				{
+					"timestamp": {"date": "2014-06-03", "time": "23-02-06", "utc": 1, "interval": 1},
+					"cpu-load": [
+						{"cpu": "all", "user": 0.00, "nice": 0.00, "system": 0.00, "iowait": 0.00, "steal": 0.00, "idle": 100.00}
+					]
+				},
+				{
+					"timestamp": {"date": "2014-06-03", "time": "23-02-07", "utc": 1, "interval": 1},
+					"cpu-load": [
+						{"cpu": "all", "user": 0.00, "nice": 0.00, "system": 0.00, "iowait": 0.00, "steal": 0.00, "idle": 100.00}
+					]
+				},
+				{
+					"timestamp": {"date": "2014-06-03", "time": "23-02-07", "utc": 1, "interval": 1},
+					"cpu-load": [
+						{"cpu": "all", "user": 0.00, "nice": 0.00, "system": 0.00, "iowait": 0.00, "steal": 0.00, "idle": 100.00}
+					]
+				},
+				{
+					"timestamp": {"date": "2014-06-03", "time": "23-02-09", "utc": 1, "interval": 1},
+					"cpu-load": [
+						{"cpu": "all", "user": 0.50, "nice": 0.00, "system": 0.00, "iowait": 0.00, "steal": 0.00, "idle": 99.50}
+					]
+				},
+				{
+					"timestamp": {"date": "2014-06-03", "time": "23-02-10", "utc": 1, "interval": 1},
+					"cpu-load": [
+						{"cpu": "all", "user": 0.00, "nice": 0.00, "system": 0.00, "iowait": 0.00, "steal": 0.00, "idle": 100.00}
+					]
+				},
+				{
+					"timestamp": {"date": "2014-06-03", "time": "23-02-11", "utc": 1, "interval": 1},
+					"cpu-load": [
+						{"cpu": "all", "user": 0.00, "nice": 0.00, "system": 0.50, "iowait": 0.00, "steal": 0.00, "idle": 99.50}
+					]
+				},
+				{
+					"timestamp": {"date": "2014-06-03", "time": "23-02-12", "utc": 1, "interval": 1},
+					"cpu-load": [
+						{"cpu": "all", "user": 0.00, "nice": 0.00, "system": 0.00, "iowait": 0.00, "steal": 0.00, "idle": 100.00}
+					]
+				},
+				{
+					"timestamp": {"date": "2014-06-03", "time": "23-02-12", "utc": 1, "interval": 1},
+					"cpu-load": [
+						{"cpu": "all", "user": 0.00, "nice": 0.00, "system": 0.00, "iowait": 0.00, "steal": 0.00, "idle": 100.00}
+					]
+				},
+				{
+					"timestamp": {"date": "2014-06-03", "time": "23-02-14", "utc": 1, "interval": 1},
+					"cpu-load": [
+						{"cpu": "all", "user": 0.00, "nice": 0.00, "system": 0.50, "iowait": 0.00, "steal": 0.00, "idle": 99.50}
+					]
+				},
+				{
+					"timestamp": {"date": "2014-06-03", "time": "23-02-15", "utc": 1, "interval": 1},
+					"cpu-load": [
+						{"cpu": "all", "user": 0.00, "nice": 0.00, "system": 0.00, "iowait": 0.00, "steal": 0.00, "idle": 100.00}
+					]
+				},
+				{
+					"timestamp": {"date": "2014-06-03", "time": "23-02-16", "utc": 1, "interval": 1},
+					"cpu-load": [
+						{"cpu": "all", "user": 0.50, "nice": 0.00, "system": 0.00, "iowait": 0.00, "steal": 0.00, "idle": 99.50}
+					]
+				},
+				{
+					"timestamp": {"date": "2014-06-03", "time": "23-02-17", "utc": 1, "interval": 1},
+					"cpu-load": [
+						{"cpu": "all", "user": 0.00, "nice": 0.00, "system": 0.00, "iowait": 0.00, "steal": 0.00, "idle": 100.00}
+					]
+				},
+				{
+					"timestamp": {"date": "2014-06-03", "time": "23-02-18", "utc": 1, "interval": 1},
+					"cpu-load": [
+						{"cpu": "all", "user": 0.00, "nice": 0.00, "system": 0.00, "iowait": 0.00, "steal": 0.00, "idle": 100.00}
+					]
+				},
+				{
+					"timestamp": {"date": "2014-06-03", "time": "23-02-19", "utc": 1, "interval": 1},
+					"cpu-load": [
+						{"cpu": "all", "user": 0.00, "nice": 0.00, "system": 0.50, "iowait": 0.00, "steal": 0.00, "idle": 99.50}
+					]
+				},
+				{
+					"timestamp": {"date": "2014-06-03", "time": "23-02-20", "utc": 1, "interval": 1},
+					"cpu-load": [
+						{"cpu": "all", "user": 0.00, "nice": 0.00, "system": 0.00, "iowait": 0.00, "steal": 0.00, "idle": 100.00}
+					]
+				},
+				{
+					"timestamp": {"date": "2014-06-03", "time": "23-02-21", "utc": 1, "interval": 1},
+					"cpu-load": [
+						{"cpu": "all", "user": 0.50, "nice": 0.00, "system": 0.00, "iowait": 0.00, "steal": 0.00, "idle": 99.50}
+					]
+				},
+				{
+					"timestamp": {"date": "2014-06-03", "time": "23-02-22", "utc": 1, "interval": 1},
+					"cpu-load": [
+						{"cpu": "all", "user": 0.00, "nice": 0.00, "system": 0.00, "iowait": 0.00, "steal": 0.00, "idle": 100.00}
+					]
+				},
+				{
+					"timestamp": {"date": "2014-06-03", "time": "23-02-23", "utc": 1, "interval": 1},
+					"cpu-load": [
+						{"cpu": "all", "user": 0.50, "nice": 0.00, "system": 0.50, "iowait": 0.00, "steal": 0.00, "idle": 99.01}
+					]
+				},
+				{
+					"timestamp": {"date": "2014-06-03", "time": "23-02-24", "utc": 1, "interval": 1},
+					"cpu-load": [
+						{"cpu": "all", "user": 0.00, "nice": 0.00, "system": 0.00, "iowait": 0.00, "steal": 0.00, "idle": 100.00}
+					]
+				},
+				{
+					"timestamp": {"date": "2014-06-03", "time": "23-02-25", "utc": 1, "interval": 1},
+					"cpu-load": [
+						{"cpu": "all", "user": 0.00, "nice": 0.00, "system": 0.50, "iowait": 0.00, "steal": 0.00, "idle": 99.50}
+					]
+				},
+				{
+					"timestamp": {"date": "2014-06-03", "time": "23-02-26", "utc": 1, "interval": 1},
+					"cpu-load": [
+						{"cpu": "all", "user": 0.00, "nice": 0.00, "system": 0.00, "iowait": 0.00, "steal": 0.00, "idle": 100.00}
+					]
+				},
+				{
+					"timestamp": {"date": "2014-06-03", "time": "23-02-27", "utc": 1, "interval": 1},
+					"cpu-load": [
+						{"cpu": "all", "user": 0.00, "nice": 0.00, "system": 0.50, "iowait": 0.00, "steal": 0.00, "idle": 99.50}
+					]
+				},
+				{
+					"timestamp": {"date": "2014-06-03", "time": "23-02-28", "utc": 1, "interval": 1},
+					"cpu-load": [
+						{"cpu": "all", "user": 0.00, "nice": 0.00, "system": 0.00, "iowait": 0.00, "steal": 0.00, "idle": 100.00}
+					]
+				},
+				{
+					"timestamp": {"date": "2014-06-03", "time": "23-02-29", "utc": 1, "interval": 1},
+					"cpu-load": [
+						{"cpu": "all", "user": 0.00, "nice": 0.00, "system": 0.00, "iowait": 0.00, "steal": 0.00, "idle": 100.00}
+					]
+				},
+				{
+					"timestamp": {"date": "2014-06-03", "time": "23-02-30", "utc": 1, "interval": 1},
+					"cpu-load": [
+						{"cpu": "all", "user": 0.00, "nice": 0.00, "system": 0.50, "iowait": 0.00, "steal": 0.00, "idle": 99.50}
+					]
+				},
+				{
+					"timestamp": {"date": "2014-06-03", "time": "23-02-31", "utc": 1, "interval": 1},
+					"cpu-load": [
+						{"cpu": "all", "user": 0.50, "nice": 0.00, "system": 0.00, "iowait": 0.00, "steal": 0.00, "idle": 99.50}
+					]
+				}
+			],
+			"restarts": [
+			]
+		}
+	]
+}}
